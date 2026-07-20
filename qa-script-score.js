@@ -19,11 +19,11 @@ function afficher(donnees){
     let riddle = document.getElementById("riddle");
     riddle.innerHTML = "Riddle #" + index;
 
-    //image..........................
+    
     const img_id = document.getElementById("photo-animal");
     img_id.src = animal["img_src"];
 
-    //nom animal......................
+   
     const nom_animal = donnees[index]["name"];
     const nom_animal_id = document.getElementById("nom-animal");
     nom_animal_id.innerHTML = nom_animal
@@ -33,7 +33,7 @@ function afficher(donnees){
     for(let i = 0; i < score; i++) emojis[i] = "🟥";
     document.getElementById("emojis").innerHTML = emojis.join("");
 
-        //facts..........................................
+        
 
     const faits = document.getElementById("faits");
     for (el of animal["facts"]){
@@ -60,11 +60,11 @@ function afficher_defaite(donnees){
     let riddle = document.getElementById("riddle");
     riddle.innerHTML = "Riddle #" + String(parseInt(index) + 1);
 
-    //image..........................
+    
     const img_id = document.getElementById("photo-animal");
     img_id.src = animal["img_src"];
 
-    //nom animal......................
+    
     const nom_animal = donnees[index]["name"];
     const nom_animal_id = document.getElementById("nom-animal");
     nom_animal_id.innerHTML = nom_animal
@@ -77,7 +77,7 @@ function afficher_defaite(donnees){
     score_title.style.color = "rgb(230, 63, 63)";
     score_title.innerHTML = "You didn't find the country of the day"
 
-    //facts..........................................
+    
 
     const faits = document.getElementById("faits");
     for (el of animal["facts"]){
@@ -95,7 +95,7 @@ function partager() {
     const emojis = Array(6).fill("🟥");
     for(let i = 0; i < score; i= i +1) emojis[i] = "🟩";
     
-    const texte = `🐾 Knowrangutan #${localStorage.getItem("index")}\nFound it in ${score}/6 hints!\n${emojis.join("")}\nbeastleday.com`;
+    const texte = `🐾 Knowrangutan #${localStorage.getItem("index")}\nFound it in ${score}/6 hints!\n${emojis.join("")}https://knowrangutan.github.io/knowrangutan/`;
     
     navigator.clipboard.writeText(texte);
     
