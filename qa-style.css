@@ -335,6 +335,11 @@ header button.actif {
     text-decoration: underline 1px;
 }
 
+#htp ul {
+    justify-content: center;
+    align-items: center;
+}
+
 #htp summary::-webkit-details-marker {
     display: contents;
 }
