@@ -342,6 +342,10 @@ header button.actif {
     align-items: center;
     border: solid;
 }
+#htp ul{
+    border: solid red;
+    text-align: center;
+}
 
 #htp summary::-webkit-details-marker {
     display: contents;
