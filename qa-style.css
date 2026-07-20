@@ -343,7 +343,7 @@ header button.actif {
     border: solid;
 }
 #htp ul{
-padding: 10%;
+padding: 2% 10%;
 }
 
 #htp summary::-webkit-details-marker {
