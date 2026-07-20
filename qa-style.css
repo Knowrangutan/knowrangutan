@@ -343,8 +343,7 @@ header button.actif {
     border: solid;
 }
 #htp ul{
-    border: solid red;
-    text-align: center;
+padding: 10%;
 }
 
 #htp summary::-webkit-details-marker {
