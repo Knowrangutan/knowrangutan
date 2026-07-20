@@ -335,7 +335,7 @@ header button.actif {
     text-decoration: underline 1px;
 }
 
-#htp details{
+#htp {
     display: flex;
     flex-direction: column;
     justify-content: center;
