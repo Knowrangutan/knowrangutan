@@ -94,6 +94,7 @@ function partager() {
     let score = localStorage.getItem("score");
     const emojis = Array(6).fill("🟥");
     for(let i = 0; i < score; i= i +1) emojis[i] = "🟩";
+    let victoire = localStorage.getItem("victoire");
     
     let texte = `🌎 Knowrangutan #${localStorage.getItem("index")}\nFound it in ${score}/6 hints!\n${emojis.join("")}https://knowrangutan.github.io/knowrangutan/`;
     if (victoire === "0") {
