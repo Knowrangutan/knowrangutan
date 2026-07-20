@@ -1,0 +1,44 @@
+[
+    {
+        "name": "tiger",
+        "color": "orange",
+        "hint": "Icaused the moste deaths",
+        "height": "Pacific/atlantic oceans",
+        "food": "meat",
+        
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sibirischer_tiger_de_edit02.jpg?_=20060813004548",
+        "facts": ["Part of the felin fmaily", "can imitate the scrams","Cause 1000 deaths each years"]
+    },
+
+
+    {
+        "name": "Armenia",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1920px-Flag_of_Armenia.svg.png",
+        "facts":["", "", ""],
+
+        "hint": "",
+
+        "gdpcapita": "9 521 $",
+        "forest": "",
+        "highest":"",
+        "democracy": "5.35",
+        "neighbour": "",
+        "area": ""
+
+    },
+
+    {
+        "name": "leopard",
+        "color": "yellow",
+        "height": "1.2m",
+        "food": "meat"
+    },
+
+    {
+        "name": "rhino",
+        "color": "grey",
+        "height": "1.5m",
+        "food": "grass"
+    }
+]
+

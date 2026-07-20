@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="qa-style.css">
+        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+        <link rel="manifest" href="site.webmanifest">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Knowrangutan — Daily Country Guessing Game</title>
+        <meta name="description" content="Guess the mystery country in 6 tries. A new geography riddle every day, based on real 2023 data. Free to play, no sign-up needed.">
+        <meta name="keywords" content="country guessing game, geography quiz, daily riddle, wordle countries">
+
+        
+        <meta property="og:title" content="Knowrangutan — Daily Country Guessing Game">
+        <meta property="og:description" content="Guess the mystery country in 6 tries. New riddle every day, based on real 2023 data.">
+        <meta property="og:image" content="og-image.png">
+        <meta property="og:url" content="6666666666666666666666666666666666">
+        <meta property="og:type" content="website">
+
+        
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Knowrangutan — Daily Country Guessing Game">
+        <meta name="twitter:description" content="Guess the mystery country in 6 tries. New riddle every day.">
+        <meta name="twitter:image" content="66666666666666666666666">
+    </head>
+
+    <body>
+        <header>
+            <h1>🦧Knowrangutan</h1>
+
+            <p id="riddle"></p>
+        </header>
+
+        <main>
+
+            <section class="quiz">
+                <h3>Guess the country of the day 🌍 !</h3>
+                
+                <p class="level"></p>
+                <details id="htp">
+                    <summary>Rules<span > (Please read it if it's the first time you play (Click))</span> :</summary>
+                    <ul>
+                        <li>Guess the mystery country in 6 tries. Each wrong guess unlocks a new clue, difficulty is high, so don't worry if you don't find it.</li>
+                        <li>Answers must be the country's common english name, lowercase, spaces only, no hyphens, no extra spaces (e.g. "united kingdom", not "united-kingdom"), spelled exactly right.</li>
+                        <li>Territories without their own UN seat (e.g. Greenland, New Caledonia) are counted under their parent country's data.</li>
+                        <li>Data from 2023, Knowrangutan stays neutral on political or territorial matters (UN sources).</li>
+                    </ul>
+                </details>
+                <p id="hint"></p>
+
+                <div id="grille-quiz">
+                    <div class="one"> <p class="p1"></p> <p class="p2"></p> <input class="inputdiv" placeholder="Enter your answer"> <button class="buttondiv" onclick="verifier('.one')">Submit</button> </div>
+                    <div class="two"> <p class="p1"></p> <p class="p2"></p> <input class="inputdiv" placeholder="Enter your answer"> <button class="buttondiv" onclick="verifier('.two')">Submit</button> </div>
+                    <div class="three"> <p class="p1"></p> <p class="p2"></p> <input class="inputdiv" placeholder="Enter your answer"> <button class="buttondiv" onclick="verifier('.three')">Submit</button> </div>
+                    <div class="four"> <p class="p1"></p> <p class="p2"></p> <input class="inputdiv" placeholder="Enter your answer"> <button class="buttondiv" onclick="verifier('.four')">Submit</button> </div>
+                    <div class="five"> <p class="p1"></p> <p class="p2"></p> <input class="inputdiv" placeholder="Enter your answer"> <button class="buttondiv" onclick="verifier('.five')">Submit</button> </div>
+                    <div class="six"> <p class="p1"></p> <p class="p2"></p> <input class="inputdiv" placeholder="Enter your answer"> <button class="buttondiv" onclick="verifier('.six')">Submit</button> </div>
+                    <div class="masqué"><p>?</p> <p>?</p> <p>?</p> <p>?</p></div>
+                    <div class="masqué"><p>?</p> <p>?</p> <p>?</p> <p>?</p></div>
+                    <div class="masqué"><p>?</p> <p>?</p> <p>?</p> <p>?</p></div>
+                    <div class="masqué"><p>?</p> <p>?</p> <p>?</p> <p>?</p></div>
+                    <div class="masqué"><p>?</p> <p>?</p> <p>?</p> <p>?</p></div>
+                    
+                </div>
+
+            </section>
+
+            <section class="pub">
+
+            </section>
+        </main>
+
+        <footer>
+            <a>About me</a>
+            <a>Contact</a>
+        </footer>
+
+        <script src="qa-script.js"></script>
+    </body>
+</html>
+

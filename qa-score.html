@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="qa-style.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+        <h1>🦧Knowrangutan</h1>
+
+        <p id="riddle"></p>
+    </header>
+
+    <main id="main-score">
+        <aside class="pub-score pub-gauche"></aside>
+
+        <div class="contenu-score">
+            <p class="label-score">Today's country was</p>
+            <h2 id="nom-animal"></h2>
+            <img id="photo-animal" src="" alt="Country flag"/>
+            <h3 id="score-title">Found in <span id="score_id"></span>/6 hints!</h3>
+            <div id="emojis"></div>
+            <div id="score-buttons">
+            <button id="share-btn" onclick="partager()">Share your score 🔗</button>
+            <button id="play-again">Play again</button>
+            </div>
+
+            <div class="facts-section">
+                <h3 id="facts-title">Did you know?</h3>
+                <div id="faits"></div>
+            </div>
+        </div>
+
+        <aside class="pub-score pub-droite"></aside>
+    </main>
+
+    <footer>
+        <a>About me</a>
+        <a>Contact</a>
+    </footer>
+
+    <script src="qa-script-score.js"></script>
+</body>
+</html>

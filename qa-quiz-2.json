@@ -1,0 +1,150 @@
+[
+    {
+        "name": "armenia",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1920px-Flag_of_Armenia.svg.png",
+        "facts": [
+                "Yerevan, Armenia's capital, was founded in 782 BC, making it older than Rome.",
+                "Armenia has its own unique alphabet, still used today with 39 letters (Հայաստան is how you'd write 'Armenia' in it).",
+                "Armenia was the first country in the world to adopt Christianity as its state religion, in 301 AD."
+            ],
+
+        "hint": "None",
+
+        "gdpcapita": "9,521 $",
+        "forest": "10.00%",
+        "highest":"4,090 m (13,420 ft)",
+        "democracy": "5.35",
+        "neighbour": "4",
+        "area": "29,743 km2 (11,484 sq mi)"
+
+    },
+
+    {
+        "name": "austria",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/langfr-1280px-Flag_of_Austria.svg.png",
+        "facts": [
+        "Vienna was the capital of the Habsburg Empire for centuries, one of the most powerful royal families in European history.",
+        "Austria is home to the world's oldest zoo, Tiergarten Schönbrunn, opened in 1752.",
+        "Lake Neusiedl, on the border with Hungary, is one of the largest steppe lakes in Europe and barely a few meters deep."
+         ],
+
+        "hint": "None",
+
+        "gdpcapita": "63,161 $",
+        "forest": "47,20%",
+        "highest":"3,798 m (12,461 ft)",
+        "democracy": "8.42",
+        "neighbour": "8",
+        "area": "83,879 km2 (32,386 sq mi)"
+
+    },
+
+    {
+        "name": "bolivia",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/langfr-1280px-Flag_of_Bolivia.svg.png",
+        "facts": [
+                "Bolivia has two capitals, La Paz (administrative, and the highest in the world at over 3,600 meters) and Sucre (constitutional), a split that goes back to a civil war in 1899.",
+                "Lake Titicaca, shared with Peru, is the highest navigable lake in the world.",
+                "Bolivia is named after Simón Bolívar, the revolutionary leader who helped liberate several South American countries from Spanish rule."
+            ],
+
+        "hint": "None",
+
+        "gdpcapita": "5,107 $",
+        "forest": "53.47%",
+        "highest":"6,542 m (21,463 ft)",
+        "democracy": "5.38",
+        "neighbour": "5",
+        "area": "1,098,581 km2 (424,164 sq mi)"
+
+    },
+
+    {
+        "name": "mali",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/langfr-1920px-Flag_of_Mali.svg.png",
+        "facts": [
+            "Bogolan, or 'mudcloth', is a Malian fabric traditionally dyed using fermented mud, and its patterns are still used in fashion worldwide today.",
+            "Mansa Musa, a former ruler of the Mali Empire, is often cited as the richest person in history, thanks to the empire's gold and salt trade.",
+            "Mali is known for its distinct mudbrick architecture, especially the Great Mosque of Djenné, the largest mudbrick building in the world."
+         ],
+
+        "hint": "None",
+
+        "gdpcapita": "1,190 $",
+        "forest": "10.14%",
+        "highest":"1,155 m (3,789 ft)",
+        "democracy": "2.40",
+        "neighbour": "7",
+        "area": "1,240,192 km2 (478,841 sq mi)"
+
+    },
+    
+
+    {
+        "name": "brazil",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langfr-1280px-Flag_of_Brazil.svg.png",
+        "facts": [
+            "Brazil is home to about 60% of the Amazon rainforest, the largest tropical rainforest in the world.",
+            "Brasília, Brazil's capital, was built from scratch in the 1950s to shift development toward the country's interior, and its layout looks like an airplane from above.",
+            "Christ the Redeemer, the famous statue in Rio, has been struck by lightning several times and even had a finger damaged once."
+        ],
+
+        "hint": "None",
+
+        "gdpcapita": "10 686 $",
+        "forest": "56.10%",
+        "highest":"2,995.30 m (9,827.1 ft)",
+        "democracy": "6.76",
+        "neighbour": "10",
+        "area": "8,510,346 km2 (3,285,863 sq mi)"
+
+    },
+
+    {
+        "name": "denmark",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1280px-Flag_of_Denmark.svg.png",
+        "facts": [
+            "Denmark has a strong concept called 'hygge', roughly meaning coziness and contentment, deeply embedded in daily Danish culture.",
+            "Denmark is one of the oldest continuous monarchies in the world, with a royal lineage tracing back over 1,000 years.",
+            "Denmark includes Greenland and the Faroe Islands as autonomous territories, making its total area far larger than mainland Denmark alone."
+        ],
+
+        "hint": "None",
+
+        "gdpcapita": "77,046 $",
+        "forest": "0.23%",
+        "highest":"3,694 m (12,119 ft)",
+        "democracy": "9.42",
+        "neighbour": "2",
+        "area": "2,210,408 km² (853,444 sq mi)"
+
+    },
+
+    {
+        "name": "vietnam",
+        "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1920px-Flag_of_Vietnam.svg.png",
+        "facts": [
+            "Vietnam uses a Latin-based alphabet (chữ Quốc ngữ) instead of Chinese characters, unlike many neighboring countries with similar historical scripts.",
+            "Motorbikes vastly outnumber cars in Vietnam, and are the primary mode of transport for most of the population.",
+            "Vietnam has one of the most narrow country shapes in the world, at some points less than 50 km wide."
+        ],
+
+        "hint": "None",
+
+        "gdpcapita": "4,829 $",
+        "forest": "37,14",
+        "highest":"3,147.3 m (10,326 ft)",
+        "democracy": " 2.62",
+        "neighbour": "3",
+        "area": "331,344.82 km2 (127,932.95 sq mi)"
+
+    }
+
+
+
+
+
+
+
+]
+
