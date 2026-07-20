@@ -336,8 +336,7 @@ header button.actif {
 }
 
 #htp ul {
-    justify-content: center;
-    align-items: center;
+    text-align: center;
 }
 
 #htp summary::-webkit-details-marker {
