@@ -96,9 +96,9 @@ function partager() {
     for(let i = 0; i < score; i= i +1) emojis[i] = "🟩";
     let victoire = localStorage.getItem("victoire");
     
-    let texte = `🌎 Knowrangutan #${localStorage.getItem("index")}\nFound it in ${score}/6 hints!\n${emojis.join("")}https://knowrangutan.github.io/knowrangutan/`;
+    let texte = `🌎 Knowrangutan #${parseInt(localStorage.getItem("index")) + 1}\nFound it in ${score}/6 hints!\n${emojis.join("")}https://knowrangutan.github.io/knowrangutan/`;
     if (victoire === "0") {
-            texte = `🌎 Knowrangutan #${localStorage.getItem("index")}\nNot found 🟥🟥🟥🟥🟥🟥\nhttps://knowrangutan.github.io/knowrangutan/`;
+            texte = `🌎 Knowrangutan #${parseInt(localStorage.getItem("index")) + 1}\nNot found 🟥🟥🟥🟥🟥🟥\nhttps://knowrangutan.github.io/knowrangutan/`;
         }
     navigator.clipboard.writeText(texte);
     
