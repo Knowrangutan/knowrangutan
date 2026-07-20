@@ -340,7 +340,7 @@ header button.actif {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: solid;
+    
 }
 #htp ul{
 padding: 2% 10%;
