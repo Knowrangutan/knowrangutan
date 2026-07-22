@@ -117,7 +117,7 @@ async function main() {
     one.style.display = "grid"
 
     const donnees = await init();
-    const debut = new Date("2026-07-21");
+    const debut = new Date("2026-07-22");
     const aujourdhui = new Date();
     const diff = Math.floor((aujourdhui - debut) / (1000 * 60 * 60 * 24));
     index = ((diff % donnees.length) + donnees.length) % donnees.length;
