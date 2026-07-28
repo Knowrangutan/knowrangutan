@@ -155,7 +155,63 @@
         "neighbour": "4",
         "area": " 200,105 km2 (77,261 sq mi) "
 
-    }
+    },
+        {
+        "name": "germany",
+        "img_src":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",
+        "facts": [
+    "Germany's Autobahn is famous for having no general speed limit on many stretches, though about 30% of the network does have posted limits.",
+    "Munich's Oktoberfest is the world's largest beer festival, drawing around 6 million visitors each year despite lasting just over two weeks.",
+    "Cologne Cathedral took 632 years to build, with construction starting in 1248 and finally finishing in 1880 after a nearly 300-year pause."
+],
+
+        "hint": "None",
+
+        "gdpcapita": "54,793 $",
+        "forest": "32.7%",
+        "highest":"2,962.06 m (9,718 ft)",
+        "democracy": "8.80",
+        "neighbour": "9",
+        "area": "357,022 km2 (137,847 sq mi)"
+
+},
+
+{
+        "name": "gabon",
+        "img_src":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1920px-Flag_of_Gabon.svg.png",
+        "facts": [ "Gabon's capital, Libreville, was founded in 1849 by freed slaves rescued from a captured slave ship, its name literally meaning 'Free Town.'", 
+"Around 85-90% of Gabon is covered in rainforest, making it one of the most forested countries in the world.", 
+"Gabon supplies around 90% of the world's okoumé, a lightweight tropical wood so central to the country's identity that it appears on the national coat of arms." ],
+
+        "hint": "None",
+
+        "gdpcapita": "54,793 $",
+        "forest": "91.2%",
+        "highest":"1,070 m (3,510 ft)",
+        "democracy": "2.18",
+        "neighbour": "3",
+        "area": "267,667 km2 (103,347 sq mi)”
+
+},
+
+{
+        "name": "new zealand",
+        "img_src":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/960px-Flag_of_New_Zealand.svg.png",
+        "facts": [ "New Zealand sits atop a mostly submerged continent called Zealandia, of which about 94% lies underwater, with New Zealand forming the visible tip.", 
+"New Zealand has roughly 5 sheep for every person today, though the ratio once peaked at over 20 sheep per person in the 1980s.", 
+"New Zealand became the first self-governing country in the world to grant women the right to vote in parliamentary elections, in 1893." ],
+
+        "hint": "None",
+
+        "gdpcapita": "48,787 $",
+        "forest": "37.7%",
+        "highest":"3,724 m (12,218 ft)",
+        "democracy": "9.61",
+        "neighbour": "0",
+        "area": "268,680 km2 (103,740 sq mi)”
+
+}
+
 
 
 
