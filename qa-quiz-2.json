@@ -138,7 +138,25 @@
         "neighbour": "3",
         "area": "331,344.82 km2 (127,932.95 sq mi)"
 
+    },
+        {
+        "name": "kyrgyzstan",
+        "img_src":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1920px-Flag_of_Kyrgyzstan.svg.png",
+        "facts": [ "Kyrgyzstan's flag features a 40-ray sun with a tunduk (the wooden crown of a yurt) at its center, symbolizing the 40 original Kyrgyz tribes.", 
+        "Golden eagle hunting, known as berkutchi, is an ancient Kyrgyz tradition still practiced today, especially near Lake Issyk-Kul, where hunters train their eagles from a young age.",
+         "The Epic of Manas, Kyrgyzstan's national epic poem, runs to roughly 500,000 lines, about 20 times longer than Homer's Iliad and Odyssey combined." ],
+
+        "hint": "None",
+
+        "gdpcapita": "2,191 $",
+        "forest": "7.0%",
+        "highest":" 7,439 m (24,406 ft) ",
+        "democracy": "3.70",
+        "neighbour": "4",
+        "area": " 200,105 km2 (77,261 sq mi) "
+
     }
+
 
 
 
