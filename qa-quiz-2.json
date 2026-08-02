@@ -210,7 +210,44 @@
         "neighbour": "0",
         "area": "268,680 km2 (103,740 sq mi)"
 
+},
+    {
+        "name": "kenya",
+        "img_src":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/960px-Flag_of_Kenya.svg.png”,
+        "facts": ["Kenya's Kalenjin community, from the Rift Valley highlands, has produced a disproportionate number of the world's elite long-distance runners, many training at high altitude in the town of Iten.", 
+        "Mount Kenya, Africa's second-highest peak at 5,199 meters, is an extinct volcano and a UNESCO World Heritage Site.", 
+        "Nairobi National Park is the only national park in the world located within a capital city, where lions and rhinos roam with the city skyline as a backdrop."],
+
+        "hint": "None",
+
+        "gdpcapita": "2,099 $",
+        "forest": "6.3%",
+        "highest":"5,197 m (17,051 ft)",
+        "democracy": "5.05",
+        "neighbour": "5",
+        "area": "580,367 km2 (224,081 sq mi)”
+
+},
+{
+        "name": "romania",
+        "img_src":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/960px-Flag_of_Romania.svg.png”,
+        "facts": [ 
+    "Bran Castle in Transylvania is popularly nicknamed 'Dracula's Castle,' inspired by the legend of Vlad the Impaler, though Bram Stoker's Dracula never actually stayed there.",
+    "The Danube Delta, formed just before the river reaches the Black Sea, is one of Europe's largest and best-preserved river deltas, covering roughly 2,200 square miles of wetlands and reed islands.",
+    "The statue of Dacian king Decebalus, carved directly into a riverside cliff along the Danube, stands 40 meters tall, making it the tallest rock sculpture in Europe."
+     ],
+
+        "hint": "None",
+
+        "gdpcapita": "18,254 $",
+        "forest": "30.1%",
+        "highest":"2,544 m (8,346 ft)",
+        "democracy": "6.45",
+        "neighbour": "5",
+        "area": "238,397 km2 (92,046 sq mi)”
+
 }
+
 
 
 
