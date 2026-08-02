@@ -213,7 +213,7 @@
 },
     {
         "name": "kenya",
-        "img_src":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/960px-Flag_of_Kenya.svg.png”,
+        "img_src":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/960px-Flag_of_Kenya.svg.png",
         "facts": ["Kenya's Kalenjin community, from the Rift Valley highlands, has produced a disproportionate number of the world's elite long-distance runners, many training at high altitude in the town of Iten.", 
         "Mount Kenya, Africa's second-highest peak at 5,199 meters, is an extinct volcano and a UNESCO World Heritage Site.", 
         "Nairobi National Park is the only national park in the world located within a capital city, where lions and rhinos roam with the city skyline as a backdrop."],
@@ -225,7 +225,7 @@
         "highest":"5,197 m (17,051 ft)",
         "democracy": "5.05",
         "neighbour": "5",
-        "area": "580,367 km2 (224,081 sq mi)”
+        "area": "580,367 km2 (224,081 sq mi)"
 
 },
 {
@@ -244,7 +244,7 @@
         "highest":"2,544 m (8,346 ft)",
         "democracy": "6.45",
         "neighbour": "5",
-        "area": "238,397 km2 (92,046 sq mi)”
+        "area": "238,397 km2 (92,046 sq mi)"
 
 }
 
